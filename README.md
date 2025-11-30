@@ -37,7 +37,7 @@ The dashboard pulls data from Google Sheets:
 ## How to Use
 
 ### **1. Open the Power BI file**
-Open: `CutDashboard.pbix`
+Open: `Cut Progress Dashboard.pbix`
 
 ### **2. Update the data source (optional)**
 If you want to use your own Google Sheet:
