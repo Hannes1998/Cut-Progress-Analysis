@@ -2,7 +2,7 @@
 
 This project is an interactive Power BI dashboard designed to track and analyze fat loss/cutting progress.  
 It connects to Google Sheets as a live data source and includes calculations for calories, protein, weight trends, and goal progression.
-
+![Cut Dashboard](images/cut_dashboard_img.PNG)
 ---
 
 
