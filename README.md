@@ -5,14 +5,15 @@ It connects to Google Sheets as a live data source and includes calculations for
 
 ---
 
-## 📊 Main Features
+
+## Main Features
 
 ### **Weight Tracking**
 - Daily weight trend line  
 - KPI cards for start weight, current weight, and goal weight  
 - Automatic calculation of total loss & progress percentage
 
-### **Calories & Protein**
+### **Diet Tracking**
 - Daily bar charts for calories and protein  
 - Color-coded ranges (Green / Orange / Red) based on ±5% and ±10% deviation from goals  
 - KPI cards for averages and daily targets
@@ -21,8 +22,9 @@ It connects to Google Sheets as a live data source and includes calculations for
 - Today's calories, protein, cut-day number  
 - Day counting starts automatically from the earliest date in the dataset
 
+---
 
-## 🗂 Data Source
+## Data Source
 
 The dashboard pulls data from Google Sheets:
 
@@ -30,8 +32,9 @@ The dashboard pulls data from Google Sheets:
 - **Meals** – meals logged per day
 - **Goals** – calorie, protein, and weight targets
 
+---
 
-## 🛠 How to Use
+## How to Use
 
 ### **1. Open the Power BI file**
 Open: `CutDashboard.pbix`
@@ -51,6 +54,8 @@ The `Goals` table lets you set:
 - Weight goal  
 - Start weight
 
-## 📜 License
+---
+
+## License
 Feel free to use or adapt this project.  
 Credit is appreciated.
